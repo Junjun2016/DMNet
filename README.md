@@ -21,7 +21,7 @@ year = {2019}
 
 ### Framework
 
-![image](images/dmnet.png)
+![image](images/dcm.png)
 
 ## Results and models
 
